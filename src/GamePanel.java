@@ -57,7 +57,7 @@ public class GamePanel extends JPanel implements ActionListener{
 		setPressedDirection(BASE_DIRECTION);
 		setScore(BASE_SCORE);
 		setBackgroundColors(new ArrayList<>(Arrays.asList(new Color(111, 199, 183, 110),new Color(111, 199, 183, 220))));
-		setPlayerColor(new Color(77, 153, 106, 220));
+		setPlayerColor(new Color(21, 112, 161, 220));
 		setAppleColor(new Color(230, 71, 105, 220));
 		setLoseOrWin(0);
 		
